@@ -134,22 +134,22 @@
         <br>
         <div class="section__div">
             <div class="section__div__iconos animate__animated animate__slideInLeft animate__slower 3s animate__infinite ">
-               <img class="section__div__img" src="./Contenido de marca/traje.estrella.png" alt="trajes">
+               <img class="section__div__img" src="./contenido de marca/traje.estrella.png" alt="trajes">
                <p>+1.150</p>
                <p>TRAJES</p>
            </div>
            <div class="section__div__iconos animate__animated animate__slideInLeft animate__slower 3s animate__infinite ">
-               <img class="section__div__img" src="./Contenido de marca/accesorios.png" alt="accesorios">
+               <img class="section__div__img" src="./contenido de marca/accesorios.png" alt="accesorios">
                <p>+1.400</p>
                <p>ACCESORIOS</p>
            </div>
            <div class="section__div__iconos animate__animated animate__slideInLeft animate__slower 3s animate__infinite ">
-               <img class="section__div__img" src="./Contenido de marca/premio.corbata.png" alt="corbatas">
+               <img class="section__div__img" src="./contenido de marca/premio.corbata.png" alt="corbatas">
                <p>+1.390</p>
                <p>CORBATAS</p>
            </div>
            <div class="section__div__iconos animate__animated animate__slideInLeft animate__slower 3s animate__infinite ">
-               <img class="section__div__img" src="./Contenido de marca/clientes.png" alt="clientes">
+               <img class="section__div__img" src="./contenido de marca/clientes.png" alt="clientes">
                <p>+2.995</p>
                <p>CLIENTES</p>
            </div>
