@@ -1,0 +1,41 @@
+.catalogomain__section1 {
+    grid-area: camsection1;
+    .catalogomain__section1__img {
+            width: 100%;
+        }
+}
+
+.catalogomain__section1__t {
+    text-align: center;
+}
+
+
+.catalogomain__section2 {
+    padding: 4em;
+    background-color: map-get($mapa-colores, lila);
+    color: rgb(34, 34, 59);
+    text-align: center;
+    grid-area: camsection2;
+    .accordion-header{
+        padding:2em;
+        background-color: map-get($mapa-colores, lila);
+        color: rgb(34, 34, 59);
+    }
+    .accordion-button {
+        padding-bottom: 4em;
+        background-color: map-get($mapa-colores, lila);
+        color: rgb(34, 34, 59);
+    }
+    .accordion-body{
+        background-color: map-get($mapa-colores, lila);
+        color: rgb(34, 34, 59);
+    }
+}
+
+
+
+.catalogofooter__ul {
+    width: 100%;
+    color: rgb(242, 233, 228);
+    text-align: end;
+}

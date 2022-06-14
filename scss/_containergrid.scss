@@ -1,0 +1,14 @@
+.body {
+    display: grid;
+    grid-template-areas:
+        "header header header header"
+        "main__section1 main__section1 main__section1 main__section1"
+        "main__section2 main__section2 main__section2 main__section2"
+        "main__section3 main__section3 main__section3 main__section3"
+        "section section section section"
+        "video video video video"
+        "footer footer footer footer";
+    grid-template-rows: 0, 50fr 1, 75fr 0, 50fr 1, 75fr 0, 25fr 1fr 0, 50fr;
+    grid-template-columns: auto auto auto auto;
+
+}

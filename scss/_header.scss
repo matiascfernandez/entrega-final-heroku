@@ -1,0 +1,35 @@
+.header {
+    padding: 1em;
+    grid-area: header;
+    background-color: map-get($mapa-colores, lila);
+    color: rgb(242, 233, 228);
+
+    .header__img {
+        width: 5vh;
+        height: 5vh;
+        text-align: center;
+    }
+
+    .header__t{
+        padding: 1em;
+        color: rgb(34, 34, 59);
+        font-size: xx-large;
+        text-align: center;
+
+    }
+
+    .animate__animated.animate__bounce {
+        --animate-duration: 4s;
+    }
+
+    .nav {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .nav-link {
+        font-size: medium;
+        color: #22223b;
+    }
+
+}

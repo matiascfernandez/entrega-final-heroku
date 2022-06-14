@@ -1,0 +1,58 @@
+.empresamain__section1 {
+    grid-area: emsection1;
+    .empresamain__section1__img {
+            width: 100%;
+        }
+}
+
+.empresamain__section1__t {
+    background-color: map-get($mapa-colores, azul );
+    color: rgb(242, 233, 228);
+    text-align: center;
+}
+
+
+
+.empresamain__section2 {
+    background-color: map-get($mapa-colores, lila );
+    color: rgb(34, 34, 59);
+    width: 100%;
+    @include flex (inline-block, center);
+    justify-content: center;
+    flex-wrap: wrap;
+    grid-area: emsection 2;
+    .empresamain__section2__1 {
+            padding: 4em;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .empresamain__section2__2 {
+            background-color: map-get($mapa-colores, lila );
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            .empresamain__section2__2div {
+                    padding: 3em;
+                    background-color: map-get($mapa-colores, azul );
+                    color: rgb(242, 233, 228);
+                    width: 70%;
+                    margin: auto;
+                    padding: auto;
+                    text-align: center;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center
+                }
+        }
+}
+
+
+
+.empresafooter__ul {
+    width: 100%;
+    color: rgb(242, 233, 228);
+    text-align: end;
+}

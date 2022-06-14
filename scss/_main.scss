@@ -1,0 +1,106 @@
+.main__section1 {
+    grid-area: main__section1;
+    background-color: map-get($mapa-colores, azul);
+
+    .main__section1__img{
+        width: 100%;
+        height: 90vh;
+    }
+}
+
+.main__section2 {
+    flex-wrap: wrap;
+    background-color: map-get($mapa-colores, lila);
+    display: flex;
+    grid-area: main__section2;
+
+    .main__section2__div{
+        margin: auto;
+        padding: 2em;
+        @include flex (inline-block,center);
+    }
+
+    .main__section2__titulo{
+        width: 100%;
+        color: rgb(34, 34, 59);
+        font-size: larger;
+        text-align: center;
+    }
+
+    .main__section2__img{
+        width: auto;
+        height: 10vh;
+        border-radius: 50%;
+    }
+}
+
+
+
+.main__section3 {
+    width: 100%;
+    margin: auto;
+    padding: 4em;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: map-get($mapa-colores, azul );
+    grid-area: main__section3;
+
+    .main__section3__titulo{
+        width: 100%;
+        color: rgb(242, 233, 228);
+        font-size: larger;
+        text-align: center;
+    }
+
+    .imagenes__contenedor {
+        @include flex (inline-block,center);
+    }
+
+    .imagenes__div {
+        @include flex (inline-block, center);
+        overflow: hidden;
+        width: 300px;
+        height: 200px;
+    }
+
+    .imagenes {
+        transition: all 1s;
+    }
+
+    .imagenes:hover {
+        transform: scale(1.2);
+        margin: 2%;
+    }
+}
+
+.section {
+    flex-wrap: wrap;
+    padding: 1em;
+    background-color: map-get($mapa-colores, lila);
+    grid-area: section;
+
+    .section__div {
+        width: 100%;
+        display: flex;
+    }
+
+    .section__div__iconos {
+        margin: auto;
+        padding: auto;
+        @include flex (inline-block, center);
+    }
+}
+
+
+.section2 {
+    width: 100%;
+    grid-area: video;
+    background-color: map-get($mapa-colores , azul );
+    margin: auto;
+    flex-wrap: wrap;
+
+    .video {
+        width: 100%;
+    }
+}
+

@@ -1,0 +1,59 @@
+.contactomain__section1 {
+    grid-area: cmsection1;
+    .contactomain__section1__img {
+            width: 100%;
+        }
+}
+
+.contactomain__section1__t {
+    background-color: map-get($mapa-colores, azul);
+    color: rgb(242, 233, 228);
+    text-align: center;
+}
+
+
+.contactomain__section2 {
+    padding: 3em;
+    background-color: map-get($mapa-colores, lila);
+    color: rgb(34, 34, 59);
+    display: flex;
+    justify-content: center;
+    grid-area: cmsection2;
+    .contactomain__section2__t {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .contactomain__section2__1 {
+            display: flex;
+          .contactomain__section2__form {
+              padding: 2em;
+              background-color: rgba(34, 34, 59, 0.726);
+              color: rgb(242, 233, 228);
+              @include flex (inline-block, center);
+                  }
+                  .contactomain__section2__info {
+                      @extend .contactomain__section2__form;
+                      width: 100%;
+                  }
+                                   }
+                                  .contactomain__section2__map {
+                                      background-color: rgba(34, 34, 59, 0.726);
+                                      color: rgb(242, 233, 228);
+                                      width: 100%;
+                                      text-align: center;
+                                  }
+}
+
+
+
+
+
+
+.contacto__footer__ul {
+    width: 100%;
+    color: rgb(242, 233, 228);
+    text-align: end;
+}
