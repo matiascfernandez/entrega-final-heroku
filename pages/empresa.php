@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="../contenido de marca/corbata logo.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="phpss/estilos.css">
+    <link rel="stylesheet" href="../css/estilos.css">
 </head>
 
 <body class="ebody">

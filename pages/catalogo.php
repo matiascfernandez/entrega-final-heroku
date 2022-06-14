@@ -121,9 +121,9 @@
             </div>
             <br>
             <div>
-                <img class="icon" src="../bontenido de marca/fc.png" width="25" alt="facebook">
-                <img class="icon" src="../bontenido de marca/ig.png" width="25" alt="instragram">
-                <img class="icon" src="../bontenido de marca/twitter.png" width="25" alt="twitter">
+                <img class="icon" src="../contenido de marca/fc.png" width="25" alt="facebook">
+                <img class="icon" src="../contenido de marca/ig.png" width="25" alt="instragram">
+                <img class="icon" src="../contenido de marca/twitter.png" width="25" alt="twitter">
             </div>
              <div class="footer__lista">
                 <ul class="footer__ul">
@@ -135,6 +135,6 @@
                 </ul>
        </div>
         </footer>
-        <script src="../bootstrap/bootstrap.min.js"></script>
+        <script src="../cootstrap/bootstrap.min.js"></script>
 </body>
 </html>
