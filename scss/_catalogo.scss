@@ -34,8 +34,6 @@
         .imagenes__divc{
             @include flex (inline-block, center);
                 overflow: hidden;
-                width: 300px;
-                height: 200px;
                 .imagenes {
                         transition: all 1s;
                     }
