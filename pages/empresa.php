@@ -55,7 +55,9 @@
                 <h1>HISTORIA</h1>
                 <br>
                 <br>
+                <div class="empresamain__section2__dimg">
                 <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1600091106710-7be582d40984?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80" alt="">
+                </div>
                 <br>
                 <br>
                 <p>La empresa JAVER lleva muchos años en el rubro, tenemos una amplia experiencia con más de 30 años en el mercado, hoy en
@@ -67,7 +69,9 @@
                 <h2>OBJETIVO</h2>
                 <br>
                 <br>
+                <div class="empresamain__section2__dimg">
                 <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1507092405095-9ed82457290a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80" alt="">
+                </div>
                 <br>
                 <br>
                 <p>La atención personalizada y la profesionalidad de nuestro equipo humano, unido a la excelente calidad de nuestros
@@ -77,7 +81,9 @@
                 <h3>CALIDAD</h3>
                 <br>
                 <br>
+                <div class="empresamain__section2__dimg">
                 <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1506072590044-75de1b7b7806?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="">
+                </div>
                 <br>
                 <br>
                 <p>Ofrecemos a nuestros clientes una combinación exclusiva del clasicismo de los trajes de etiqueta con la modernidad

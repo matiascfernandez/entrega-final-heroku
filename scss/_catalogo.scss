@@ -11,6 +11,7 @@
 
 
 .catalogomain__section2 {
+    width: 100%;
     padding: 4em;
     background-color: map-get($mapa-colores, lila);
     color: rgb(34, 34, 59);
@@ -27,8 +28,23 @@
         color: rgb(34, 34, 59);
     }
     .accordion-body{
+        @include flex (inline-block, center);
         background-color: map-get($mapa-colores, lila);
         color: rgb(34, 34, 59);
+        .imagenes__divc{
+            @include flex (inline-block, center);
+                overflow: hidden;
+                width: 300px;
+                height: 200px;
+                .imagenes {
+                        transition: all 1s;
+                    }
+                
+                    .imagenes:hover {
+                        transform: scale(1.2);
+                        margin: 2%;
+                    }
+        }
     }
 }
 
