@@ -56,7 +56,7 @@
                 <br>
                 <br>
                 <div class="empresamain__section2__dimg">
-                <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1600091106710-7be582d40984?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80" alt="">
+                <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1600091106710-7be582d40984?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80" width="350" alt="">
                 </div>
                 <br>
                 <br>
@@ -70,7 +70,7 @@
                 <br>
                 <br>
                 <div class="empresamain__section2__dimg">
-                <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1507092405095-9ed82457290a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80" alt="">
+                <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1507092405095-9ed82457290a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80" width="350" alt="">
                 </div>
                 <br>
                 <br>
@@ -82,7 +82,7 @@
                 <br>
                 <br>
                 <div class="empresamain__section2__dimg">
-                <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1506072590044-75de1b7b7806?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="">
+                <img class="empresamain__section2__img" src="https://images.unsplash.com/photo-1506072590044-75de1b7b7806?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="350" alt="">
                 </div>
                 <br>
                 <br>
