@@ -1,8 +1,9 @@
 .catalogomain__section1 {
     grid-area: camsection1;
+
     .catalogomain__section1__img {
-            width: 100%;
-        }
+        width: 100%;
+    }
 }
 
 .catalogomain__section1__t {
@@ -11,37 +12,49 @@
 
 
 .catalogomain__section2 {
-    width: 100%;
     padding: 4em;
     background-color: map-get($mapa-colores, lila);
     color: rgb(34, 34, 59);
     text-align: center;
     grid-area: camsection2;
-    .accordion-header{
-        padding:2em;
+
+    .accordion-item {
+        background-color: map-get($mapa-colores, lila);
+    }
+
+    .accordion-header {
+        padding: 2em;
         background-color: map-get($mapa-colores, lila);
         color: rgb(34, 34, 59);
     }
+
     .accordion-button {
         padding-bottom: 4em;
         background-color: map-get($mapa-colores, lila);
         color: rgb(34, 34, 59);
     }
-    .accordion-body{
-        @include flex (inline-block, center);
+
+    .accordion-body {
+        width: 100%;
         background-color: map-get($mapa-colores, lila);
         color: rgb(34, 34, 59);
-        .imagenes__divc{
-            @include flex (inline-block, center);
-                overflow: hidden;
-                .imagenes {
-                        transition: all 1s;
-                    }
-                
-                    .imagenes:hover {
-                        transform: scale(1.2);
-                        margin: 2%;
-                    }
+        margin: auto;
+        padding: auto;
+        display: flex;
+        justify-content: center;
+        display: inline-block;
+
+        .accordion__imagenes {
+            display: flex;
+            justify-content: center;
+            display: inline-block;
+
+            .accordion__im {
+                width: 290px;
+                height: 370px;
+                padding: 1em;
+
+            }
         }
     }
 }
